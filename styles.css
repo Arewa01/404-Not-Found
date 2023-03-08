@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
 
 body {
    width:100%;
@@ -166,7 +167,7 @@ margin: 20px auto;
     h2{
             font-size: 48px;
             line-height: 71px;
-            letter-spacing: -0.035em;
+     letter-spacing: -0.035em;
             word-spacing: 0.1em;
             width: 80%;
             word-break: keep-all;
