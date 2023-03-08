@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 <!-- Please update value in the {}  -->
 
 <h1 align="center">404 Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+=======
+
+<h1 align="center">404-Not-Found</h1>
+
+<div align="center">
+   Solution for the '404 Not Found" challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+>>>>>>> origin/main
 </div>
 
 <div align="center">
@@ -65,11 +73,20 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+<<<<<<< HEAD
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
+=======
+
+>>>>>>> origin/main
 
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
+<<<<<<< HEAD
 - GitHub [@your-username](https://{github.com/your-usermame})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
+=======
+- GitHub @arewa01(https://{github.com/Arewa01})
+
+>>>>>>> origin/main
