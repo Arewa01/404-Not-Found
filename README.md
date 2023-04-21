@@ -56,5 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/Arewa01})
-- Twitter [@your-twitter](https://{twitter.com/joy_omotoso})
+- GitHub [@Arewa01](https://github.com/Arewa01)
+- Twitter [@Joy_Omotoso](https://twitter.com/joy_omotoso)
