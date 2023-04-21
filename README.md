@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://github.com/Arewa01/404-Not-Found">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
